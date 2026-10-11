@@ -1,2 +1,5 @@
-[tool.vercel]
-entrypoint = "api/index.py"
+[project]
+name = "feedback-bot-kael"
+version = "1.0.0"
+requires-python = ">=3.12"
+dependencies = []
